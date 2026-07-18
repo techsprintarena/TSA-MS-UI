@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>
-          TECHSPRINT ARENA IS COMING SOON
+          TECHSPRINT ARENA - DEV IS COMING SOON
         </h2>
       </header>
     </div>
