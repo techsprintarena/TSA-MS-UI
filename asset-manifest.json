@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TSA-MS-UI-DEV/static/css/main.c4fdf62f.css",
-    "main.js": "/TSA-MS-UI-DEV/static/js/main.1f699e60.js",
+    "main.js": "/TSA-MS-UI-DEV/static/js/main.0aadbeea.js",
     "static/js/453.1dbffcc6.chunk.js": "/TSA-MS-UI-DEV/static/js/453.1dbffcc6.chunk.js",
     "static/media/logo.png": "/TSA-MS-UI-DEV/static/media/logo.c26f3d54db0717361cf0.png",
     "index.html": "/TSA-MS-UI-DEV/index.html",
     "main.c4fdf62f.css.map": "/TSA-MS-UI-DEV/static/css/main.c4fdf62f.css.map",
-    "main.1f699e60.js.map": "/TSA-MS-UI-DEV/static/js/main.1f699e60.js.map",
+    "main.0aadbeea.js.map": "/TSA-MS-UI-DEV/static/js/main.0aadbeea.js.map",
     "453.1dbffcc6.chunk.js.map": "/TSA-MS-UI-DEV/static/js/453.1dbffcc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4fdf62f.css",
-    "static/js/main.1f699e60.js"
+    "static/js/main.0aadbeea.js"
   ]
 }
