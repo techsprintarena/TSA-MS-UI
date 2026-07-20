@@ -24,7 +24,7 @@ jobs:
 
       - name: Build React app
         env:
-          PUBLIC_URL: /<repository-name>
+          PUBLIC_URL: /TSA-MS-UI
         run: npm run build
 
       - name: Deploy
