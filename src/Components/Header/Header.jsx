@@ -63,7 +63,7 @@ export default function Header() {
           }}
         >
           <Link
-            to="/"
+            to="/TSA-MS-UI/dev/"
             className="d-block rounded-pill text-white text-decoration-none"
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -71,7 +71,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/HIW"
+            to="/TSA-MS-UI/dev/HIW"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -79,7 +79,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/contribution"
+            to="/TSA-MS-UI/dev/contribution"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -87,7 +87,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/aboutus"
+            to="/TSA-MS-UI/dev/aboutus"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -95,7 +95,7 @@ export default function Header() {
           </Link>
 
 					<Link
-            to="/rewards"
+            to="/TSA-MS-UI/dev/rewards"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -103,7 +103,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/enroll"
+            to="/TSA-MS-UI/dev/enroll"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
