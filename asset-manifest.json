@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TSA-MS-UI/static/css/main.c4fdf62f.css",
-    "main.js": "/TSA-MS-UI/static/js/main.63e69b18.js",
-    "static/js/453.1dbffcc6.chunk.js": "/TSA-MS-UI/static/js/453.1dbffcc6.chunk.js",
-    "static/media/logo.png": "/TSA-MS-UI/static/media/logo.c26f3d54db0717361cf0.png",
-    "index.html": "/TSA-MS-UI/index.html",
-    "main.c4fdf62f.css.map": "/TSA-MS-UI/static/css/main.c4fdf62f.css.map",
-    "main.63e69b18.js.map": "/TSA-MS-UI/static/js/main.63e69b18.js.map",
-    "453.1dbffcc6.chunk.js.map": "/TSA-MS-UI/static/js/453.1dbffcc6.chunk.js.map"
+    "main.css": "/<repository-name>/static/css/main.c4fdf62f.css",
+    "main.js": "/<repository-name>/static/js/main.230eb16c.js",
+    "static/js/453.1dbffcc6.chunk.js": "/<repository-name>/static/js/453.1dbffcc6.chunk.js",
+    "static/media/logo.png": "/<repository-name>/static/media/logo.c26f3d54db0717361cf0.png",
+    "index.html": "/<repository-name>/index.html",
+    "main.c4fdf62f.css.map": "/<repository-name>/static/css/main.c4fdf62f.css.map",
+    "main.230eb16c.js.map": "/<repository-name>/static/js/main.230eb16c.js.map",
+    "453.1dbffcc6.chunk.js.map": "/<repository-name>/static/js/453.1dbffcc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4fdf62f.css",
-    "static/js/main.63e69b18.js"
+    "static/js/main.230eb16c.js"
   ]
 }
