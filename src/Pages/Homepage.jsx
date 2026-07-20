@@ -1,5 +1,5 @@
 import logo from "../Assets/logo.png";
-// import Header from "../Components/Header/Header";
+import Rewards from "./Rewardspage";
 
 export default function Home() {
 	const colorTemplates = [
@@ -46,6 +46,7 @@ export default function Home() {
           <p className="text-white">Welcome to the home page!</p>
         </div>
       </div>
+			<Rewards/>
     </>
   );
 }
