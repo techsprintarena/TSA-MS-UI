@@ -71,7 +71,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/"
+            to="/HIW"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -79,7 +79,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/"
+            to="/contribution"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -87,7 +87,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/"
+            to="/aboutus"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -95,7 +95,7 @@ export default function Header() {
           </Link>
 
 					<Link
-            to="/"
+            to="/rewards"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -103,7 +103,7 @@ export default function Header() {
           </Link>
 
           <Link
-            to="/"
+            to="/enroll"
             className="d-block rounded-pill text-white text-decoration-none "
             onClick={() => setMobileMenuOpen(false)}
           >
