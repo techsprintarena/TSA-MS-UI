@@ -26,6 +26,8 @@ jobs:
         run: npm ci
 
       - name: Build React app
+        env:
+          PUBLIC_URL: /TSA-MS-UI/dev
         run: npm run build
 
       - name: Deploy build folder
@@ -33,4 +35,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          publish_branch: gh-pages-dev
+          publish_branch: gh-pages
+          destination_dir: dev
+          keep_files: true
